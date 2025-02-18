@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=/personalwebsite/index.html" />
+    <script>
+      // Redirect all unknown paths to React's client-side routing
+      var redirectTo = window.location.pathname;
+      if (!redirectTo.startsWith("/personalwebsite")) {
+        redirectTo = "/personalwebsite" + redirectTo;
+      }
+      window.location.href =
+        "/personalwebsite/index.html?redirect=" + redirectTo;
+    </script>
   </head>
   <body>
     <p>
