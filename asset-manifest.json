@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personalwebsite/static/css/main.0d249af5.css",
+    "main.js": "/personalwebsite/static/js/main.79411b65.js",
+    "static/js/739.ec143f09.chunk.js": "/personalwebsite/static/js/739.ec143f09.chunk.js",
+    "static/js/193.93c44221.chunk.js": "/personalwebsite/static/js/193.93c44221.chunk.js",
+    "static/js/681.651036a5.chunk.js": "/personalwebsite/static/js/681.651036a5.chunk.js",
+    "static/js/453.b05d8aa5.chunk.js": "/personalwebsite/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock09.png": "/personalwebsite/static/media/mock09.c53ed54b085e624dcdaa.png",
+    "static/media/mock10.png": "/personalwebsite/static/media/mock10.b695707481f5616fd389.png",
+    "static/media/Xiaowu.md": "/personalwebsite/static/media/Xiaowu.1d62aa95dd6538d2e67d.md",
+    "index.html": "/personalwebsite/index.html",
+    "static/media/A-City-of-Sadness.md": "/personalwebsite/static/media/A-City-of-Sadness.31d6cfe0d16ae931b73c.md",
+    "static/media/A-Confucian-Confusion.md": "/personalwebsite/static/media/A-Confucian-Confusion.31d6cfe0d16ae931b73c.md",
+    "main.0d249af5.css.map": "/personalwebsite/static/css/main.0d249af5.css.map",
+    "main.79411b65.js.map": "/personalwebsite/static/js/main.79411b65.js.map",
+    "453.b05d8aa5.chunk.js.map": "/personalwebsite/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d249af5.css",
+    "static/js/main.79411b65.js"
+  ]
+}

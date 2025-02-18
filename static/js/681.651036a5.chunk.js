@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_portfolio_template=self.webpackChunkreact_portfolio_template||[]).push([[681],{9681:(e,t,a)=>{e.exports=a.p+"static/media/Xiaowu.1d62aa95dd6538d2e67d.md"}}]);
