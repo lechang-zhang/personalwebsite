@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Orlando",
+    "title": "Orlando",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Portadaorlando.jpg/440px-Portadaorlando.jpg",
+    "author": "Virginia Woolf",
+    "date": "1928",
+    "path": "/book-review/Orlando"
+  },
+  {
+    "id": "The-Transformation",
+    "title": "The-Transformation",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Franz_Kafka_Die_Verwandlung_1916_Orig.-Pappband.jpg/440px-Franz_Kafka_Die_Verwandlung_1916_Orig.-Pappband.jpg",
+    "author": "Franz Kafka",
+    "date": "1915",
+    "path": "/book-review/The-Transformation"
+  },
+  {
+    "id": "Nexus",
+    "title": "Nexus",
+    "img": "https://m.media-amazon.com/images/I/71l4l6o2drL.jpg",
+    "author": "Yuval Noah Harari",
+    "date": "2024",
+    "path": "/book-review/Nexus"
+  }
+]
